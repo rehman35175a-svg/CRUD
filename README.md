@@ -1,2 +1,2 @@
 # CRUD
-Next.js + Django
+Next.js + Django + PostgreSQL
